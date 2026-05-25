@@ -1,4 +1,4 @@
-# Grupo cariocastech
+# Portifólio IBMEC
 ## Integrantes 
  - Guilherme Pardelhas https://github.com/GuiAraujo25
 
